@@ -1,0 +1,7 @@
+---
+---
+
+{% include base.manifest %}
+{% asset_path kids-ui/app.js %}
+{% asset_path kids-ui/main.css %}
+
